@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im a high school student
 
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=ANIKETSHARMAGIT56)](https://github.com/anuraghazra/github-readme-stats)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=ANIKETSHARMAGIT56&show_icons=true&theme=radical)
