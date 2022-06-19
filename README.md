@@ -1,4 +1,4 @@
-![my gif]( https://images-ext-2.discordapp.net/external/P6ZNv8dK5OboROBvwAoJsPJZT1p2hvAzOI_hsOvniII/https/media.tenor.com/DBqjevyA2o4AAAPo/bongo-cat-codes.mp4)
+![my gif](https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif)
 
 ### Hola amigos I'm Aniket 👋
 
