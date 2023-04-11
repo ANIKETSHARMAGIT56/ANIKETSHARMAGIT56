@@ -5,8 +5,6 @@
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about linux and C
 - 📫 How to reach me: discord aniket#0001
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im a high school student
 
 ### "A computer is like air conditioning - it becomes useless when you open Windows"  -linus torvalds
 
