@@ -6,6 +6,6 @@
 - 📫 How to reach me:
 - Discord  -> aniket.cpp
 - Email -> aniketsharmawin10@gmail.com
-- Instagram -> @anikett.asm
+- Instagram -> @anikett.cpp
 
 ### "A computer is like air conditioning - it becomes useless when you open Windows"  -linus torvalds
