@@ -10,8 +10,6 @@
 
 <img src="https://github.com/user-attachments/assets/0c7f2ae0-0ce8-4f37-afa0-5b3e17cf04a3" width="100" height="100" alt="C">
 
-<img src="https://github.com/user-attachments/assets/04726bae-ce75-40b9-b518-6669b44b9912" width="100" height="100" alt="JS">
-
 <img src="https://github.com/user-attachments/assets/9deb6962-7f9d-4d45-89f1-f892f07a2b78" height="100" alt="Boost">
 
 <img src="https://github.com/user-attachments/assets/c6dd61f0-7a6c-4040-9763-96b45d52ee30" height="100" alt="Qt">
